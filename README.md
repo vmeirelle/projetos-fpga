@@ -1,4 +1,4 @@
-# Projetos de FP
+# Projetos de FPGA
 Projetos de circuitos em FPGA
 
 # Lab 01 - Circuitos Combinacionais
